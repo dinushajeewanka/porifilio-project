@@ -31,3 +31,7 @@ nav ul li{
   color: var(--primary-white) !important;
 
 }
+
+.navbar-nav{
+  margin-left: auto;
+}
